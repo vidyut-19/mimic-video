@@ -1,0 +1,19 @@
+model/scripts/download_checkpoints.py
+  s_a8fca349fe4251::t_6c222e53b25087 58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "00d552aa23d467ab8c85776c5d66d34f51710ae7",
+  "prompts": {},
+  "sessions": {
+    "s_a8fca349fe4251": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2a426a3e-5346-4b8f-8721-ec827436384e",
+        "model": "claude-fable-5"
+      },
+      "human_author": "vidyut-19 <vidyut@rellingsystems.com>"
+    }
+  }
+}
